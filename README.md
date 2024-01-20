@@ -1,4 +1,4 @@
-## Demo
+## Hosted Web App Demo
 
 https://developerdias.github.io/gh-users/
 
