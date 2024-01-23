@@ -32,5 +32,5 @@ Install dependencies
 Start the server
 
 ```bash
-  npm dev
+  npm start
 ```
